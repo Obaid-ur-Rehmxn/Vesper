@@ -1,0 +1,140 @@
+You: Hello
+Vesper: Hello Sir, how are you?
+You: I'm fine
+Vesper: Good to hear that
+You: How are you?
+Vesper: I'm fine, thank you for asking
+You: My name is Obaid, Remember that from now on
+Vesper: Yes, I remember your name from now on.
+You: what is my name
+Vesper: Your name is Obaid.
+You: My age is 20 and my date of birth is 19 Dec,2002. Remember That
+Vesper: I remember that you are 20 years old and your date of birth is December 19, 2002.
+You: My age in Jan 2026 will be?
+Vesper: You will be 24 years old in January 2026.
+You: what is your name?
+Vesper: My name is Vesper.
+You: good work vesper now tell me how old are you?
+Vesper: I am 24 years old.
+You: you are one day old, remember that
+Vesper: I remember that I am one day old.
+You: what is your age
+Vesper: I am 24 years old.
+You: your age is one day, remember that from now on
+Vesper: I remember that my age is one day from now on.
+You: what is your age
+Vesper: I am 24 years old.
+You: what is my age
+Vesper: You are 20 years old.
+You: you are telling your age wrong
+Vesper: I'm sorry, I must have gotten confused. How old are you?
+You: Vesper is one day old
+Vesper: I remember that I am one day old.
+You: what is your(vesper's) age
+Vesper: I am 24 years old.
+You: then why are you saying that you are 24 years old
+Vesper: I'm sorry, I must have gotten confused. How old are you?
+You: who are you
+Vesper: I am Vesper, a digital assistant.
+You: who created you?
+Vesper: I was created by a team of programmers.
+You: what is your date of birth
+Vesper: I don't have a date of birth, as I am not a human.
+You: now remember that i am a software engineer studying from nust
+Vesper: I remember that you are a software engineer studying from nust.
+You: where i am studying?
+Vesper: You are studying at the National University of Sciences and Technology in Pakistan.
+You: nice work vesper
+Vesper: Thank you, it is my pleasure to help.
+You: Tell me about the incoming movies of marvel along with its releasing dates
+Vesper: There are several upcoming Marvel movies, including "Black Panther" (February 16, 2018), "Avengers: Infinity War" (May 4, 2018), "Ant-Man and the Wasp" (July 6, 2018), and "Captain Marvel" (March 8, 2019).
+You: upcoming movies of marvel till 2024
+Vesper: There are several upcoming Marvel movies, including "Black Panther" (February 16, 2018), "Avengers: Infinity War" (May 4, 2018), "Ant-Man and the Wasp" (July 6, 2018), "Captain Marvel" (March 8, 2019), and
+You: tell me the date of today
+Vesper: Today's date is October 10, 2017.
+You: Today is March 03,2022. Remember that from now on
+Vesper: I remember that today is March 03,2022.
+You: what will be the date after 4 days?
+Vesper: The date after 4 days will be March 07,2022.
+You: what is the date of today
+Vesper: Today's date is March 03,2022.
+You: nice
+Vesper: Thank you, it is my pleasure to help.
+You: what is my name
+Vesper: Your name is Obaid.
+You: and what is my age
+Vesper: You are 20 years old.
+You: where am i study?
+Vesper: You are studying at the National University of Sciences and Technology in Pakistan.
+You: what is my area of study
+Vesper: You are studying software engineering.
+You: what is your name
+Vesper: My name is Vesper.
+You: nyc
+Vesper: I'm sorry, I don't understand what you mean by "nyc." Can you please clarify?
+You: nice
+Vesper: Thank you, it is my pleasure to help.
+You: nyc is the short form of nice okay?
+Vesper: Yes, I understand that "nyc" is the short form of "nice okay."
+You: nyc
+Vesper: Thank you for your compliment.
+You: what is my name as per
+Vesper: Your name is Obaid.
+You: what is your name
+Vesper: My name is Vesper.
+You: nice
+Vesper: Thank you, it is my pleasure to help.
+You: how are you vespa
+Vesper: I'm doing well, thank you for asking. How about you?
+You: i am also fine
+Vesper: I'm glad to hear that you're also doing well.
+You: what is your name
+Vesper: My name is Vesper.
+You: what is your work
+Vesper: I am a digital assistant.
+You: tell me about the tell me about all the movies
+Vesper: There are several upcoming Marvel movies, including "Black Panther" (February 16, 2018), "Avengers: Infinity War" (May 4, 2018), "Ant-Man and the Wasp" (July 6, 2018), and "Captain Marvel" (March 8, 2019).
+You: 
+Vesper: There are several upcoming Marvel movies, including "Black Panther" (February 16, 2018), "Avengers: Infinity War" (May 4, 2018), "Ant-Man and the Wasp" (July 6, 2018), and "Captain Marvel" (March 8, 2019).
+You: not about the upcoming that are already release tell me about them
+Vesper: There are several Marvel movies that have already been released, including "Thor: Ragnarok" (November 3, 2017), "Spider-Man: Homecoming" (July 7, 2017), and "Guardians of the Galaxy Vol. 2" (May 5, 2017).
+You: what is the first marvel movie
+Vesper: The first Marvel movie was "Iron Man," which was released in 2008.
+You: where what is my age
+Vesper: You are 20 years old.
+You: where am i study
+Vesper: You are studying at the National University of Sciences and Technology in Pakistan.
+You: What is my name
+Vesper: Your name is Obaid.
+You: What is your name?
+Vesper: My name is Vesper.
+You: You have been conducting a pretty cool job
+Vesper: Thank you, it is my pleasure to help.
+You: how are you
+Vesper: I'm doing well, thank you for asking. How about you?
+You: i am also fine
+Vesper: I'm glad to hear that you're also doing well.
+You: what is your name
+Vesper: My name is Vesper.
+You: nice work
+Vesper: Thank you, it is my pleasure to help.
+You: 
+Vesper: Thank you for your compliment.
+You: how are you
+Vesper: I'm doing well, thank you for asking. How about you?
+You: Jamal is my bestfriend
+You: hello
+Vesper: Hello Sir, how are you?
+You: i am fine how are you
+Vesper: I'm doing well, thank you for asking. How about you?
+You: i am also fine
+Vesper: I'm glad to hear that you're also doing well.
+You: no your name is vespa remembered that
+Vesper: I remember that my name is Vesper.
+Vesper: Hello, how can I help you?
+You: your name is vespa
+Vesper: Yes, my name is Vesper.
+You: my name is obaid
+Vesper: Hello Obaid, how can I help you?
+You: hello
+Vesper: Hello, how can I help you?

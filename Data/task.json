@@ -1,0 +1,9 @@
+{
+  "intents": [
+    {
+      "tag": "open",
+      "patterns": ["open","run","start","visit"],
+      "responses": ["working on it"]
+    }
+  ]
+}

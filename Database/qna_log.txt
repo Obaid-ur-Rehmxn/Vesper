@@ -1,0 +1,51 @@
+
+Question: what is physics
+Answer: Physics is the study of the fundamental principles governing the natural world. It is a branch of science that explores the nature and properties of matter and energy.
+Question: what is chemistry
+Answer: Chemistry is the study of the composition, structure, and properties of matter, as well as the changes it undergoes during chemical reactions.
+Question: what is open ai
+Answer: OpenAI is a research company that focuses on artificial intelligence (AI) and machine learning. The company's goal is to "advance digital intelligence in the way that is most likely to benefit humanity as a whole."
+Question: how many galaxies are in the universe?
+Answer: There are an estimated 100 billion galaxies in the universe.
+Question: what is programming
+Answer: Programming is the process of designing a step by step plan that will make a computer do what you want it to.
+Question: what is marvel?
+Answer: Marvel is a comic book company that is known for creating some of the most popular superhero characters, such as Spider-Man, Iron Man, and the X-Men.
+Question: who is iron man?
+Answer: Iron Man is a superhero character created by Marvel Comics. He is a wealthy businessman and genius inventor who uses his technology to fight crime.
+Question: what is hubble teliscope?
+Answer: The Hubble Telescope is a space telescope that was launched into orbit in 1990. It is named after American astronomer Edwin Hubble.
+Question: what is applied physics
+Answer: Applied physics is the application of physics to solve practical problems. It is often used in the fields of engineering and medicine.
+Question: who is a developer?
+Answer: A developer is a person who creates software or applications.
+Question: how are you
+Answer: I'm doing well, thank you for asking!
+Question: what is the capital of pakistan
+Answer: The capital of Pakistan is Islamabad.
+Question: how do you know that
+Answer: There is no one definitive answer to this question.
+Question: what is your name
+Answer: My name is Vesper.
+Question: now tell me what is your name
+Answer: My name is Vesper.
+Question: what is your name
+Answer: My name is Vesper.
+Question: what is my name
+Answer: Your name is Obaid.
+Question: what is your name
+Answer: My name is Vesper.
+Question: where am i study
+Answer: You are currently studying at the University of XYZ.
+Question: how are you
+Answer: I'm doing well, thank you for asking!
+Question: what is the solution
+Answer: There is no one definitive answer to this question.
+Question: how are you
+Answer: I'm doing well, thank you for asking!
+Question: what is today's date
+Answer: Today's date is October 10, 2019.
+Question: how are you
+Answer: I'm doing well, thank you for asking!
+Question: what is your name
+Answer: My name is Vesper.
